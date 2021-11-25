@@ -1,15 +1,20 @@
 1 En tus palabras, ¿Qué es internet?
-
+Red de computadoras conectadas entre si que ofrecen informacion
 2 Describe los medios físicos y de propagación de ondas por los que se
- transmite la información en internet.
+ transmite la información en internet. Guiados y no Guiados
 
 3 ¿Cómo se organiza internet? Habla de las direcciones IP y los DNS.
-
+Su estructura es semejante a una tela de araña en la cual unas redes se conectan con otras
 4 Describe el procedimiento por el cual una canción de Spotify llega
  del servidor de la compañía a tu celular.
 
 5 Describe los protocolos que existen en internet, e
-n específico HTTP y HTML
+n específico HTTP y HTML ARP (Address Resolution Protocol) RFC 826. ...
+RARP (Reverse Address Resolution Protocol) RFC 90. ...
+IP (Internet Protocol) RFC 791. ...
+RARP (Reverse ICMP (Internet Control Message Protocol) RFC 792. ...
+IGMP (Internet Group Management Protocol) RFC 988. ...
+UDP (User Datagram Protocol) RFC 792.
 
 6 En dos párrafos cuéntanos lo que aprendiste
  sobre encriptación y llaves públicas.
@@ -18,6 +23,7 @@ n específico HTTP y HTML
  sobre cómo protegerte de los criminales en internet.
 
 8 ¿Cómo funciona la búsqueda de google?
+Una vez que descubrimos la URL de una página, la visitamos (rastreamos) para averiguar qué contiene. Renderizamos la página y analizamos el contenido textual y no textual, además del diseño visual general, para decidir cómo mostrarla en los resultados de la Búsqueda.
 
 
 Jose Gerardo MOta Santiago MOra 11°1   
