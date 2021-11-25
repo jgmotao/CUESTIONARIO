@@ -1,0 +1,54 @@
+1 En tus palabras, ¿Qué es internet?
+Para mi es un herramienta muy util que puedes hacer 
+muchas cosas con ella ya que frecen información impirtante
+
+2 Describe los medios físicos y de propagación de ondas por los que se
+ transmite la información en internet.
+ Distinguimos dos tipos de medios: guiados y no guiados
+
+3 ¿Cómo se organiza internet? Habla de las direcciones IP y los DNS.
+La resolución de nombres utiliza una estructura en árbol, mediante la cual los
+ diferentes servidores DNS de las zonas de autoridad
+ se encargan de resolver las direcciones de su zona, y sino se lo s
+olicitan a otro servidor que creen que conoce la dirección
+
+4 Describe el procedimiento por el cual una canción de Spotify llega
+ del servidor de la compañía a tu celular.
+
+ Las playlists que sigues o que hayas creado. La música que escuchas 
+ (se publica en la Actividad de Amigos automáticamente). Los artistas
+  y las canciones principales que aparecen en t
+  perfil. El contenido que publiques, subas y/o aportes al servicio.
+
+5 Describe los protocolos que existen en internet, 
+en específico HTTP y HTML
+El Protocolo de transferencia de hipertexto 
+(en inglés, Hypertext Transfer Protocol, abreviado HTTP)
+ es el protocolo de comunicación que permite las transferencias
+  de información a través de archivos en la World Wide Web.
+   El desarrollo de aplicaciones web necesita frecuentemente mantener 
+   estado
+
+6 En dos párrafos cuéntanos lo que aprendiste
+ sobre encriptación y llaves públicas.
+ ¿Cómo funciona el cifrado de clave pública?
+El cifrado de llave pública permite a alguien enviar su
+ llave pública en un canal abierto e inseguro. 
+ Tener la llave pública de alguna amistad o contacto le permite
+  cifrar los mensajes que le envía. Su llave privada se usa para 
+  descifrar los mensajes que se le envían cifrados
+
+7 En dos párrafos cuéntanos lo que aprendiste
+ sobre cómo protegerte de los criminales en internet.
+ Modificar periódicamente la contraseña de la red wifi,
+  instalar antivirus en todos los dispositivos conectados a internet
+   revisar los permisos de las aplicaciones y eliminar aquellas 
+   que no se estén usando fueron algunas de las recomendaciones que 
+   todo hogar debería implementar.
+
+8 ¿Cómo funciona la búsqueda de google?
+Una vez que descubrimos la URL de una página, 
+la visitamos (rastreamos) para averiguar qué contiene.
+ Renderizamos la página y analizamos el contenido textual
+  y no textual, además del diseño visual general, para decidir
+   cómo mostrarla en los resultados de la Búsqueda
